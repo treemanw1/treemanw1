@@ -1,3 +1,3 @@
 # Neville
 
-Hey I'm an aspiring software engineer studying Computer Science at SUTD :)
+Software Engineer. Enterprise tech. C# and .NET.
